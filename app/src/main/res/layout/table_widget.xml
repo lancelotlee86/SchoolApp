@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text_view_border_widget">
+
+    <AnalogClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/analogClock"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/TW1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/text_view_border_widget"
+        android:text=""/>
+    <TextView
+        android:id="@+id/TW2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/text_view_border_widget"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/TW3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/text_view_border_widget"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/TW4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/text_view_border_widget"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/TW5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="@drawable/text_view_border_widget"
+        android:layout_weight="1"/>
+</LinearLayout>

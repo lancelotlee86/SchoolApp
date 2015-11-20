@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidProject\CourseTableI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\AndroidProject\CourseTableI\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-91d1f74cdac958232b8df2acc9111ec331d4aca8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProject\CourseTableI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\AndroidProject\CourseTableI\app\build\intermediates\pre-dexed\debug\classes-dc21f5340eeecdce032b47dff4fe2bb38c93f072.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProject\CourseTableI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\AndroidProject\CourseTableI\app\build\intermediates\pre-dexed\debug\classes-db9db75b8e4493b23c3f7144341fe88299372b6f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\AndroidProject\CourseTableI\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-fb4d7b276207d6036c41b3fc89713a2a20c48e59.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProject\CourseTableI\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="F:\AndroidProject\CourseTableI\app\build\intermediates\pre-dexed\debug\classes-2e63c222115605527edfc0e1e273e4d4daebbcca.jar" />
+    </item>
+
+</items>
